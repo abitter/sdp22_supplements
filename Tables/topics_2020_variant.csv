@@ -1,0 +1,201 @@
+"ID","evolution_terms","n_docs"
+"1","robot, touch, interaction, gesture, action, agent, partner, gaze, stroke, game",542
+"2","pain, emotion, emotional, facial, regulation, interoceptive, expression, automatic, sensitivity, disgust",981
+"3","psychotherapy, therapy, dream, therapeutic, psychotherapeutic processes, psychoanalysis, psychoanalytic, music, therapist, psychotherapist",2921
+"4","ptsd, symptom, trauma, posttraumatic, stress, disorder, traumatic, posttraumatic stress disorder, icd-11, grief",1570
+"5","neural, stimulation, brain, eeg, stimulus, cortex, process, alpha, theta, response",1527
+"6","trauma, symptom, ptsd, refugee, traumatic, depression, posttraumatic, stress, disorder, event",1480
+"7","driver, drive, traffic, vehicle, safety, road, automate, mobility, noise, automation",991
+"8","treatment, intervention, depression, symptom, trial, therapy, cbt, randomize, outcome, depressive",2089
+"9","teacher, student, school, education, teach, educational, competence, learn, classroom, self-efficacy",1932
+"10","covid-19, pandemic, coronavirus, police, norm, lockdown, distance, virus, public, officer",2460
+"11","epistemic, user, nonverbal, fake, agent, engagement, privacy, belief, witness, chance",2056
+"12","memory, learn, cue, retrieval, encode, forget, experiment, extinction, retention, recall",1248
+"13","child, parent, parental, adolescent, family, mother, problem, father, peer, children's",1627
+"14","forensic, sexual, offender, criminal, recidivism, violence, expert, abuse, crime, risk",2696
+"15","employee, leadership, management, organizational, leader, creativity, organization, coach, manager, follower",1865
+"16","error, task, conflict, response, cue, stimulus, reward, signal, inhibition, attentional",1055
+"17","endurance, deception, speaker, cooperation, discipline, biology, lie, autistic, absolute, sexual",902
+"18","psychotherapy, systemic, psychotherapist, train, guideline, practice, therapy, therapist, qualitative, counsel",3269
+"19","covid-19, dropout, pandemic, coronavirus, defense, psychotherapist, fear, threat, personality, psychotherapy",1557
+"20","bias, self-compassion, social, virtual, delusion, loneliness, reaction, reality, user, interpretation",670
+"21","music, musical, thought, musician, rhythm, metaphor, coverage, home, module, smart",708
+"22","gender, woman, man, sexual, female, male, sex, stereotype, voice, human sex differences",2230
+"23","adhd, psychosis, genetic, disorder, hyperactivity, symptom, risk, psychotic, schizophrenia, deficit",834
+"24","robot, moral, conspiracy, decision, think, robotic, client, ethic, aid, indicator",586
+"25","symptom, depression, patient, depressive, disorder, mdd, psychosis, schizophrenia, clinical, severity",1214
+"26","patient, rehabilitation, care, cancer, treatment, hospital, inpatient, health, healthcare, psychosocial",2257
+"27","care, health, pandemic, covid-19, child, mental, adolescent, service, refugee, professional",2733
+"28","employee, career, job, team, leader, leadership, workplace, follower, satisfaction, organizational",2366
+"29","facial, face, emotion, bias, emotional, expression, empathy, neutral, stimulus, recognition",852
+"30","maltreatment, abuse, childhood, traumatic, resilience, trauma, child, attachment, mother, risk",1887
+"31","sleep, insomnia, memory, dream, consolidation, disturbance, quality, night, vigilance, wake",800
+"32","medium, user, technology, app, communication, digital, social, online, trust, internet",1664
+"33","psychotherapy, therapy, therapist, treatment, psychotherapeutic techniques, psychotherapeutic processes, therapeutic, psychodynamic, disorder, psychotherapist",4485
+"34","pain, placebo, chronic, athlete, intensity, pain perception, somatosensory, instruction, stimulation, perception",714
+"35","alcohol, consumption, drink, addiction, crave, binge, withdrawal, smartphone, old, intake",802
+"36","age, old, adult, cognitive, memory, young, performance, age-related, task, decline",836
+"37","attachment, couple, family, child, parent, relationship, supervision, psychoanalytic, father, attachment behavior",2930
+"38","mindfulness, self-compassion, meditation, emotion, relaxation, practice, mindfulness-based, experience, regulation, arousal",1517
+"39","scale, validity, item, reliability, version, psychometric, factor, questionnaire, instrument, property",1295
+"40","therapy, psychotherapy, treatment, therapeutic, disorder, therapist, psychotherapeutic techniques, patient, psychodynamic, psychotherapeutic processes",4093
+"41","decision, choice, reward, preference, food, consumer, decision-making, make, decision making, uncertainty",1376
+"42","brain, neural, network, connectivity, functional, cortex, region, cortical, leave, activation",1160
+"43","oxytocin, gene, genetic, pain, receptor, genotype, ocd, stress, polymorphism, disorder",811
+"44","reward, decision, value, decision-making, choice, make, monetary, decision making, generalization, judgment",730
+"45","language, infant, child, gesture, parental, object, development, developmental, month, linguistic",1623
+"46","leadership, team, coach, employee, organization, organizational, competency, manager, management, teamwork",3603
+"47","violence, sexual, bully, victimization, aggression, violent, aggressive, cyberbullying, victim, prevention",2818
+"48","well-being, self-control, satisfaction, daily, positive, affect, happiness, relationship, couple, mood",1050
+"49","implicit, explicit, attitude, belief, motive, self-esteem, evaluative, epistemic, power, think",761
+"50","stress, cortisol, sleep, burnout, heart, exposure, reactivity, salivary, physiological, acute",999
+"51","contact, intergroup, interpersonal, sleep, social, group, tie, trait, sport, natural",690
+"52","user, technology, digital, online, internet, website, medium, app, automate, information",996
+"53","prejudice, film, alcohol, device, phenomenological, lie, drink, index, abstinence, smartphone",780
+"54","movement, visual, object, stimulus, eye, sensory, saccade, task, motor, spatial",1558
+"55","coach, leadership, crisis, management, counsel, employee, company, team, career, digital",3638
+"56","mindfulness, suicide, suicidal, attempt, intervention, mindfulness-based, happiness, crisis, pandemic, naturalistic",1287
+"57","job, employee, satisfaction, leadership, burnout, well-being, demand, nurse, resource, stress",2385
+"58","care, caregiver, dementia, resilience, need, health, qol, burden, symbol, youth",1360
+"59","language, comprehension, child, read, speech, linguistic, word, sentence, literacy, children's",2294
+"60","eat, food, obesity, ed, drink, consumption, intake, nervosa, reward, anorexia",1002
+"61","child, parent, attachment, mother, parental, family, parenting, infant, adolescent, problem",1886
+"62","suicide, suicidal, ideation, suicidality, attempt, exposure, suicide prevention, risk, prevention, tendency",2623
+"63","pain, patient, chronic, hrqol, anxiety, disease, quality, score, treatment, health-related",1250
+"64","fear, extinction, condition, threat, physiological, arousal, acquisition, c, memory, anxiety",738
+"65","psychotherapy, systemic, counsel, therapy, therapist, psychotherapeutic techniques, constellation, therapeutic, psychotherapeutic, card",3950
+"66","well-being, employee, health, stress, job, leadership, rumination, work-related, workplace, mental",2827
+"67","sport, athlete, exercise, like, lockdown, mix, self-regulation, psychology, competition, recovery",1010
+"68","rehabilitation, ms, visual, patient, olfactory, disease, pd, originality, onset, fluency",1547
+"69","transgender, risk, gender, axis, counsel, identity, trust, stem, decision, anger",1813
+"70","violence, moral, prosocial, behavior, victim, aggression, peer, crime, violent, male",2096
+"71","learn, train, feedback, judgment, transfer, monitor, learner, text, musical, skill",1823
+"72","hazard, eat, intake, behavior, network, omission, scan, trigger, trait, message",836
+"73","read, language, spell, write, comprehension, child, reader, text, skill, word",1188
+"74","memory, cue, task, experiment, visual, stimulus, attention, spatial, object, color",1644
+"75","eat, food, obesity, body, weight, image, bmi, disorder, surgery, intake",664
+"76","brain, cortex, neural, fmri, network, reward, activation, functional, frontal, leave",1115
+"77","patient, cancer, distress, disease, life, care, health, quality, depression, tinnitus",1052
+"78","sleep, insomnia, dream, disturbance, distortion, night, sleep wake disorders, fatigue, quality, wake",551
+"79","adhd, symptom, disorder, deficit, hyperactivity, schizophrenia, impulsivity, impairment, executive, attention deficit disorder with hyperactivity",1081
+"80","psychotherapy, shame, therapy, therapeutic, psychoanalysis, psychoanalytic, dream, conflict, basic, countertransference",2779
+"81","scale, validity, reliability, questionnaire, item, instrument, psychometric, validation, measure, score",1585
+"82","legal, self-control, ecologically, offender, forensic, precursor, motion, classifier, zurich, confound",2475
+"83","goal, sport, team, motive, motivation, performance, power, motivational, pursuit, implicit",1346
+"84","train, exercise, intervention, relaxation, group, improvement, control, program, transfer, improve",1106
+"85","model, causal, theory, think, implicit, computational, empirical, knowledge, action, process",1209
+"86","violence, sexual, abuse, aggression, victimization, offender, prison, perpetrator, trauma, victim",2301
+"87","identity, value, cultural, culture, attitude, immigrant, country, migrant, migration, gender",2005
+"88","medium, breast, flow, happiness, mental, health, exposure, sport, smartphone, smartphones",1144
+"89","student, teacher, school, achievement, motivation, goal, academic, learn, university, grade",2267
+"90","satisfaction, life, partner, personality, couple, neuroticism, daily, relationship, loneliness, well-being",1062
+"91","visual, face, memory, stimulus, object, experiment, scene, process, action, task",1224
+"92","brain, network, cortex, connectivity, neural, region, functional, cortical, stimulation, fmri",1364
+"93","physical, health, pa, activity, intervention, behavior, exercise, plan, intention, physical activity",1317
+"94","moral, preference, option, complexity, trajectory, news, sensitivity, disparity, morality, dilemma",1223
+"95","review, systematic, scientific, literacy, publication, literature, meta-analysis, pubmed, science, criterion",2173
+"96","prime, experiment, semantic, numerical, task, digit, stimulus, expectation, response, paradigm",767
+"97","mindfulness, meditation, self-regulation, unemployment, mindfulness-based, community, gap, west, east, embodiment",1481
+"98","intelligence, ability, cognitive, memory, performance, executive, skill, motor, child, train",999
+"99","sleep, cortisol, insomnia, stress, beta, phenotype, dream, cohesion, movement, night",1127
+"100","synchrony, self-control, interpersonal, nonverbal, qualitative, coordination, distance, illusion, resource, forum",1758
+"101","therapy, psychotherapy, therapeutic, therapist, psychotherapeutic techniques, psychotherapeutic processes, treatment, couple, schema, psychotherapist",2533
+"102","visual, spatial, feedback, object, experiment, sensory, movement, perception, perceptual, space",1389
+"103","sexual, man, woman, gender, sex, female, sexuality, partner, desire, male",1056
+"104","child, skill, preschool, children's, age, play, motor, finger, language, competence",1496
+"105","stress, cortisol, heart, physiological, acute, placebo, response, hair, concentration, hpa",1247
+"106","body, eat, weight, obesity, nervosa, woman, anorexia, image, bmi, disorder",947
+"107","police, officer, stigma, help-seeking, element, symptom, police personnel, depression, depressive, coronavirus",582
+"108","cancer, sibling, voice, survivor, distress, information, compliance, tumor, provider, anger",971
+"109","drive, driver, trust, user, traffic, vehicle, automate, interface, system, automation",1646
+"110","mass, cross, urban, collaboration, comparative, partner, risk, interest, juvenile, social",740
+"111","bpd, personality, borderline, patient, disorder, borderline personality disorder, memory, trait, schema, female",1072
+"112","psychology, qualitative, theory, concept, methodology, science, development, qualitative methods, review, psychological",1939
+"113","student, learn, teacher, teach, school, education, educational, knowledge, instructional, grade",3236
+"114","anxiety, ocd, sad, cope, grief, cognition, rumination, avoidance, trait, symptom",732
+"115","identity, attitude, stereotype, refugee, political, immigrant, collective, prejudice, ethnic, minority",1259
+"116","team, ef, cohesion, diversity, leader, ingroup, conflict, group, member, bully",767
+"117","career, self-management, coach, consultant, person, exercise, insecurity, education, stigma, personnel",997
+"118","cognitive, patient, memory, impairment, ms, pd, deficit, disease, performance, neuropsychological",1207
+"119","refugee, cultural, migrant, migration, intergroup, country, ethnic, germany, integration, culture",2686
+"120","personality, trait, narcissism, extraversion, strength, character, neuroticism, conscientiousness, personality traits, openness",911
+"121","personality, trait, neuroticism, conscientiousness, self-esteem, loneliness, personality traits, openness, dark, narcissism",1167
+"122","student, achievement, school, mathematics, grade, teacher, academic, self-efficacy, dropout, educational",1315
+"123","decision, judgment, moral, error, decision making, make, uncertainty, decision-making, dilemma, consequence",1362
+"124","disorder, adhd, diagnosis, icd-11, symptom, comorbidity, diagnostic, diagnose, asd, autism",1393
+"125","moral, judgment, loss, morality, resource, bereavement, identification, image, agent, preschooler",1449
+"126","patient, treatment, cancer, pain, care, chronic, disease, diabetes, depression, rehabilitation",1674
+"127","child, family, parent, maternal, mother, parental, children's, childhood, maltreatment, early",2053
+"128","memory, task, performance, cognitive, switch, old, inhibition, control, executive, representation",1395
+"129","voice, sleep, coherence, covariate, eeg, false, flexible, neurofeedback, noise, team",1570
+"130","emotion, emotional, regulation, expression, anger, negative, affective, strategy, facial, valence",1066
+"131","version, validity, scale, item, psychometric, reliability, questionnaire, german, instrument, property",953
+"132","psychology, creativity, art, qualitative, creative, psychological, science, researcher, qualitative methods, aesthetic",1854
+"133","coach, moral, crisis, political, psychology, climate, narrative, counsel, deal, competence",1606
+"134","narrative, robot, story, psychopathy, prejudice, trust, deviation, alignment, lose, mind",1128
+"135","self-control, narcissism, guilt, capacity, advice, shame, feeling, self-esteem, sleep, equally",903
+"136","religious, metaphor, loss, shame, religiosity, spirituality, spiritual, share, caregiver, coordination",454
+"137","cognitive, function, executive, dementia, ad, performance, memory, neuropsychological, age, impairment",1018
+"138","asd, autism, participation, tinnitus, bully, spectrum, environmental, autism spectrum disorders, classification, biological",1202
+"139","cue, task, visual, stimulus, attention, process, response, distractor, experiment, location",1483
+"140","cg, uncertainty, digit, finger, trustworthiness, local, global, coherence, self-concept, tolerance",1270
+"141","teacher, student, teach, school, education, educational, academic, learn, classroom, knowledge",3273
+"142","internet, game, problematic, medium, addiction, gaming, video, smartphone, online, addictive",1755
+"143","ed, provider, protagonist, load, interpersonal, awareness, net, imagine, intensify, patient",1841
+"144","auditory, voice, speech, sound, music, eeg, extinction, listen, musical, theta",1067
+"145","model, simulation, item, estimate, latent, response, probability, bayesian, design, parameter",1811
+"146","police, covid-19, self-control, crisis, creativity, survey, creative, pandemic, sensation, officer",2302
+"147","care, intervention, treatment, patient, cancer, caregiver, trial, health, outcome, program",2493
+"148","neural, stimulation, brain, auditory, eeg, response, cortex, stimulus, process, signal",1657
+"149","couple, relationship, partner, robot, satisfaction, wish, partnership, health, dyadic, inequality",1713
+"150","bpd, borderline, sensitivity, ed, rejection, exclusion, personality, sexual, tendency, interpersonal",903
+"151","sport, athlete, player, game, team, coach, performance, video, gamble, exercise",1720
+"152","treatment, intervention, therapy, patient, trial, randomize, outcome, cbt, control, group",1791
+"153","health, mental, care, refugee, barrier, service, illness, medical, prevention, treatment",1360
+"154","visual, stimulus, attention, experiment, auditory, task, color, response, spatial, object",1834
+"155","disorder, bpd, personality, borderline, symptom, patient, diagnosis, treatment, anxiety, diagnostic",1664
+"156","touch, power, impulsiveness, status, disgust, synchrony, mg, differentiate, sophisticate, facet",1715
+"157","validity, item, validation, scale, psychometric, version, construct, structure, test validity, measurement",909
+"158","depression, cancer, patient, symptom, anxiety, distress, depressive, health, disease, fatigue",1308
+"159","alliance, strength, character, tom, relatedness, death, frustration, coach, emotion, fall",1728
+"160","volunteer, exercise, attendance, happiness, competency, volition, self-control, empathy, self-image, effort",2227
+"161","emotion, emotional, facial, face, expression, color, disgust, guilt, anger, affective",540
+"162","stimulation, tdcs, brain, cortex, transcranial, alpha, leave, sham, neural, anodal",1330
+"163","goal, motive, motivation, action, incentive, motivational, achievement, self-regulation, confrontation, climate",803
+"164","child, parent, parental, family, children's, adolescent, maternal, mother, parenting, behavior",1513
+"165","learn, learner, student, knowledge, text, problem-solving, metacognitive, instructional, monitor, feedback",1828
+"166","item, scale, validity, score, questionnaire, measurement, invariance, reliability, test validity, property",961
+"167","psychotherapy, care, psychotherapist, therapy, counsel, treatment, professional, implementation, law, train",4914
+"168","pandemic, covid-19, climate, distance, trust, collective, communication, agency, credibility, conspiracy",1727
+"169","brain, volume, functional, cortex, cortical, patient, amygdala, hippocampal, gray, connectivity",972
+"170","suicide, suicidal, suicidality, ideation, rejection, austrian, pandemic, prevention, risk, crisis",1569
+"171","student, school, read, teacher, language, math, academic, learn, achievement, grade",2423
+"172","asd, autism, spectrum, autistic, empathy, autism spectrum disorders, loneliness, reason, ethical, ingroup",2074
+"173","stereotype, expert, layperson, moral, failure, profile, technique, register, trial, weight",1984
+"174","social, attitude, trust, stereotype, member, political, prejudice, authoritarianism, right-wing, group",1730
+"175","privacy, app, fake, user, mobile, protection, mobile applications, appeal, applicant, policy",1394
+"176","treatment, patient, care, hospital, psychiatric, inpatient, guideline, psychotherapy, nurse, therapy",3049
+"177","psychology, psychoanalysis, theory, concept, qualitative, constellation, philosophy, perspective, psychotherapy, interpretation",2173
+"178","psychotherapy, counsel, therapy, constellation, psychotherapist, couple, therapeutic, psychotherapeutic techniques, client, systemic",2886
+"179","music, time, game, skin, experimental, leverage, ambivalence, expectation, rejection, modification",1108
+"180","alcohol, addiction, substance, drug, gamble, disorder, internet, relapse, treatment, smoke",1181
+"181","disorder, depression, symptom, depressive, anxiety, patient, mdd, treatment, severity, psychiatric",1636
+"182","psychoanalysis, qualitative, psychology, psychoanalytic, history, theory, concept, shame, unconscious, cultural",2468
+"183","motor, leadership, help, child, withdrawal, educational, prosocial, science, antidepressant, hierarchy",1036
+"184","medium, political, psychology, climate, art, public, society, cultural, science, intention",2326
+"185","job, management, employee, occupational, team, occupational stress, company, prevention, office, health",2347
+"186","physical, exercise, activity, intervention, pa, body, week, sport, physical activity, obesity",1858
+"187","treatment, intervention, trial, patient, depression, outcome, therapy, randomize, train, group",1846
+"188","ptsd, trauma, childhood, traumatic, stress, posttraumatic, abuse, disorder, maltreatment, symptom",2204
+"189","alcohol, smoke, substance, addiction, drink, gamble, consumption, addictive, disorder, drug",1244
+"190","food, drive, product, imagery, consumer, compliance, consumption, intention, service, motivation",772
+"191","life, satisfaction, age, old, health, well-being, couple, partner, cope, dyadic",1837
+"192","brain, neural, cortex, functional, connectivity, network, activation, region, fmri, image",1457
+"193","visual, object, eye, stimulus, saccade, fixation, movement, spatial, vision, experiment",1499
+"194","suicide, suicidality, suicidal, attempt, mental, risk, smoke, pandemic, health, ideation",1322
+"195","model, estimate, parameter, simulation, fit, estimation, miss, statistical, variance, response",1632
+"196","emotion, emotional, regulation, reappraisal, arousal, affective, negative, valence, expression, positive",774
+"197","age, old, young, adolescence, adult, life, lifespan, longitudinal, satisfaction, self-esteem",1267
+"198","sport, app, happiness, train, expert, flow, reform, card, systemic, real",1195
+"199","suicide, suicidal, ideation, suicidality, prevention, bully, attempt, death, suicide prevention, suicidal ideation",1336
+"200","stress, cortisol, stressor, acute, exercise, reactivity, cope, physiological, blood, response",828
