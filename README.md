@@ -1,4 +1,6 @@
-This repo hosts the supplementary material for "Finding Scientific Topics in Continuously Growing Text Corpora" by Bittermann &amp; Rieger (2022), a paper accepted for the [3rd Workshop on Scholarly Document Processing](https://sdproc.org/2022/).
+This repo hosts the supplementary material for: 
+
+Bittermann & Rieger (2022). Finding Scientific Topics in Continuously Growing Text Corpora. In *Proceedings of the Third Workshop on Scholarly Document Processing*, pages 7–18, Gyeongju, Republic of Korea. Association for Computational Linguistics. [https://aclanthology.org/2022.sdp-1.2/](https://aclanthology.org/2022.sdp-1.2/)
 
 **André Bittermann** ([@abitter](https://github.com/abitter))  
 **Jonas Rieger** ([@JonasRieger](https://github.com/JonasRieger))
